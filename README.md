@@ -59,4 +59,9 @@ This project demonstrates experience in:
 
 ## Contact
 
-For inquiries regarding the TradingView/Pine Script version or custom indicator development, please contact me directly.
+Interested in the TradingView / Pine Script version or custom Pine Script / MQL5 development?
+
+Feel free to contact me:
+
+- **Telegram:** [@keiwan_k99](https://t.me/keiwan_k99)
+- **LinkedIn:** [Keiwan K99](https://www.linkedin.com/in/keiwan-k99/)
